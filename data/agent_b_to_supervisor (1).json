@@ -1,0 +1,25 @@
+{
+    "agent": "Weather Agent B \u2014 Thanjavur Region",
+    "individual_metrics": {
+        "LSTM": {
+            "hum": 0.5883,
+            "temp": 0.3858,
+            "rain": 0.0031
+        },
+        "GRU": {
+            "hum": 0.4699,
+            "temp": 0.3467,
+            "rain": 0.0765
+        },
+        "1D-CNN": {
+            "hum": 0.3872,
+            "temp": 0.4153,
+            "rain": 0.0354
+        }
+    },
+    "ensemble_mae": {
+        "humidity": 0.4283,
+        "temperature": 0.3728,
+        "rainfall": 0.0336
+    }
+}

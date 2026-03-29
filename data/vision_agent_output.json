@@ -1,0 +1,7 @@
+{
+    "agent": "Vision Agent - RiceNet/ViT",
+    "prediction": "Leaf Blast",
+    "confidence": 0.9634,
+    "timestamp": "2024-03-15T10:30:00",
+    "recommendation": "Apply fungicide and check nitrogen levels."
+}

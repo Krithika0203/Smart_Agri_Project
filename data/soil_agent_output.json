@@ -1,0 +1,18 @@
+{
+  "GRU": {
+    "prediction": "good",
+    "confidence": 0.999
+  },
+  "LSTM": {
+    "prediction": "good",
+    "confidence": 1.0
+  },
+  "1D-CNN": {
+    "prediction": "good",
+    "confidence": 0.9976
+  },
+  "Ensemble": {
+    "prediction": "good",
+    "confidence": 0.9988
+  }
+}
