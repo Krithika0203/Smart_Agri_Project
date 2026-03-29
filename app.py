@@ -13,7 +13,7 @@ from groq import Groq
 VISION_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 TEXT_MODEL   = "llama-3.3-70b-versatile"
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "YOUR_GROQ_API_KEY_HERE"
 client = Groq(api_key=GROQ_API_KEY)
 
 st.set_page_config(page_title="Mali AI", page_icon="🌿", layout="wide",
